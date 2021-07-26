@@ -1,4 +1,7 @@
-# IP Address - Front End Mentor Challenge
+<h1 align="center">
+IP Address - Front End Mentor Challenge
+</h1>
+
 
 <p align="center">
   <a href="#overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
