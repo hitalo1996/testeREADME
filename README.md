@@ -2,9 +2,9 @@
 # IP address
 
 <p align="center">
-  [Overview](#overview) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [My process](#my-process) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  [Author](#author)
+  <a href="#overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#my-process">My process</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author">Author</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## Overview
