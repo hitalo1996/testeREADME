@@ -14,8 +14,8 @@
 The challenge is to build this IP Address Tracker app and make it look as close to the design as possible.
 
 <p align="center">
- <img src="desktop-design.jpg" alt="Application demo" width="400px" height="300px"/>
- <img src="mobile-design.jpg" alt="Application demo" width="400px" height="300px"/>
+ <img src="desktop-design.jpg" alt="Application demo" />
+ <img src="mobile-design.jpg" alt="Application demo" />
 </p>
 
 This is a solution to the IP address tracker challenge on Frontend Mentor.
