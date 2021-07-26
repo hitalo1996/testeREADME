@@ -57,14 +57,11 @@ Users should be able to:
 [//]: # (```)
 [//]: # (```js)
 
-[//]: # (If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.)
-
-
 [//]: # ( ## Author)
 
 [//]: # (- Website - [Add your name here](https://www.your-site.com) )
-[//]: # (- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername))
-[//]: # (- Twitter - [@yourusername](https://www.twitter.com/yourusername))
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername))
 
 [//]: # (## Acknowledgments)
 
