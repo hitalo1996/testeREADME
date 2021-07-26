@@ -32,7 +32,7 @@ Users should be able to:
 - See their own IP address on the map on the initial page load
 - Search for any IP addresses or domains and see the key information and location
 
-## My process
+[//]:# "## My process
 
 ### Built with
 
@@ -41,7 +41,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Javascript
-- API's ( IPify, LeafletJS)
+- API's ( IPify, LeafletJS)"
 
 [//]: # (### What I learned)
 
