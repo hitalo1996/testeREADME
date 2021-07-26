@@ -1,5 +1,5 @@
 # testeREADME
-# IP address
+# IP Address
 
 <p align="center">
   <a href="#overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -10,7 +10,9 @@
 ## Overview
 
 ### Result
-/*This is a solution to the IP address tracker challenge on Frontend Mentor.*/
+[//]: # "This is a solution to the IP address tracker challenge on Frontend Mentor."
+
+Under development...
 
 ### The challenge
 
