@@ -5,7 +5,7 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 
 ## Table of contents
 
-- [Overview](#overview)
+- [Overview](#overview)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
