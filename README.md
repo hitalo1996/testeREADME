@@ -11,6 +11,13 @@
 
 ### The challenge
 
+The challenge is to build this IP Address Tracker app and make it look as close to the design as possible.
+
+<p align="center">
+ <img src=".github/desktop-design" alt="Application demo" width="800px" height="600px"/>
+ <img src=".github/mobile-design" alt="Application demo" width="800px" height="600px"/>
+</p>
+
 This is a solution to the IP address tracker challenge on Frontend Mentor.
 
 Users should be able to:
