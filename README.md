@@ -23,7 +23,7 @@ The challenge is to build this IP Address Tracker app and make it look as close 
  <img src="mobile-design.jpg" alt="Application demo" />
 </p>
 
-To get the IP address locations, you will use IPify's IP Geolocation API. And to generate the map, the LeafletJS API will be used
+To get the IP address locations, the IPify IP Geolocation API will be used. And to generate the map, the LeafletJS API
 
 Users should be able to:
 
