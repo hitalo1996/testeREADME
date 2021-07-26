@@ -27,10 +27,10 @@ To get the IP address locations, the IPify IP Geolocation API will be used. And 
 
 Users should be able to:
 
-- View the optimal layout for each page depending on their device's screen size
-- See hover states for all interactive elements on the page
-- See their own IP address on the map on the initial page load
-- Search for any IP addresses or domains and see the key information and location
+- See the optimal layout for each page depending on your device's screen size
+- View focus states for all interactive elements on the page
+- View your own IP address on the map at home page load
+- Search any IP addresses or domains and see key information and location
 
 [//]:# "## My process"
 
