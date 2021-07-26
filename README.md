@@ -1,5 +1,4 @@
-# testeREADME
-# IP Address
+# IP Address - Front End Mentor Challenge
 
 <p align="center">
   <a href="#overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -27,10 +26,10 @@ To get the IP address locations, the IPify IP Geolocation API will be used. And 
 
 Users should be able to:
 
-- See the optimal layout for each page depending on your device's screen size
+- View the optimal layout for each page depending on your device's screen size
 - View focus states for all interactive elements on the page
 - View your own IP address on the map at home page load
-- Search any IP addresses or domains and see key information and location
+- Search any IP addresses or domains and view key information and location
 
 [//]:# "## My process"
 
